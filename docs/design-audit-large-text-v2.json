@@ -1,0 +1,136 @@
+[
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "200%-home-320",
+    "minText": 24,
+    "smallControls": [],
+    "textSizes": [
+      24,
+      26,
+      30,
+      34,
+      40,
+      44,
+      56,
+      68
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "200%-home-390",
+    "minText": 24,
+    "smallControls": [],
+    "textSizes": [
+      24,
+      26,
+      30,
+      34,
+      40,
+      44,
+      56,
+      68
+    ],
+    "width": 390
+  },
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "200%-coffee-320",
+    "minText": 24,
+    "smallControls": [],
+    "textSizes": [
+      24,
+      26,
+      30,
+      34,
+      40,
+      68
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "200%-coffee-390",
+    "minText": 24,
+    "smallControls": [],
+    "textSizes": [
+      24,
+      26,
+      30,
+      34,
+      40,
+      68
+    ],
+    "width": 390
+  },
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "200%-product-320",
+    "minText": 24,
+    "smallControls": [],
+    "textSizes": [
+      24,
+      26,
+      30,
+      34,
+      40,
+      56,
+      68
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "200%-product-390",
+    "minText": 24,
+    "smallControls": [],
+    "textSizes": [
+      24,
+      26,
+      30,
+      34,
+      40,
+      56,
+      68
+    ],
+    "width": 390
+  },
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "200%-gallery-320",
+    "minText": 24,
+    "smallControls": [],
+    "textSizes": [
+      24,
+      26,
+      30,
+      34,
+      40,
+      56
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "200%-gallery-390",
+    "minText": 24,
+    "smallControls": [],
+    "textSizes": [
+      24,
+      26,
+      30,
+      34,
+      40,
+      56
+    ],
+    "width": 390
+  }
+]

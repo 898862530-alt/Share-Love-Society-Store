@@ -1,0 +1,52 @@
+[
+  {
+    "name": "art-1",
+    "prompt": "Use case: illustration-story. Create a single square original artwork for an internal art gallery demo. A joyful coral red sun above a cobalt blue sea, one tiny pale yellow boat, thick loose oil pastel strokes, ivory paper background. Sophisticated simple naive modern art, hand-drawn irregular shapes, visible pigment and paper texture. Fill the square composition. Flat artwork only, no frame, no text, no signature, no attribution to any actual artist or disability.",
+    "path": "src/static/assets/art-1.webp"
+  },
+  {
+    "name": "art-2",
+    "prompt": "Use case: illustration-story. Create a single square original artwork for an internal art gallery demo. A whimsical mint green botanical garden, ultramarine leaves, little orange flowers, oil pastel and cut-paper texture on ivory. Sophisticated simple naive modern art, hand-drawn irregular shapes, visible pigment and paper texture. Fill the square composition. Flat artwork only, no frame, no text, no signature, no attribution to any actual artist or disability.",
+    "path": "src/static/assets/art-2.webp"
+  },
+  {
+    "name": "art-3",
+    "prompt": "Use case: illustration-story. Create a single square original artwork for an internal art gallery demo. An imaginary playful orange cat under a pink sky, purple and cobalt accents, expressive crayon texture on cream paper. Sophisticated simple naive modern art, hand-drawn irregular shapes, visible pigment and paper texture. Fill the square composition. Flat artwork only, no frame, no text, no signature, no attribution to any actual artist or disability.",
+    "path": "src/static/assets/art-3.webp"
+  },
+  {
+    "name": "art-4",
+    "prompt": "Use case: illustration-story. Create a single square original artwork for an internal art gallery demo. A little cobalt house surrounded by soft pink and yellow flowers, whimsical abstract gouache, creamy paper. Sophisticated simple naive modern art, hand-drawn irregular shapes, visible pigment and paper texture. Fill the square composition. Flat artwork only, no frame, no text, no signature, no attribution to any actual artist or disability.",
+    "path": "src/static/assets/art-4.webp"
+  },
+  {
+    "name": "art-5",
+    "prompt": "Use case: illustration-story. Create a single square original artwork for an internal art gallery demo. A meadow of tall orange and red flowers under a pale sky, freehand oil pastel, minimal cream ground. Sophisticated simple naive modern art, hand-drawn irregular shapes, visible pigment and paper texture. Fill the square composition. Flat artwork only, no frame, no text, no signature, no attribution to any actual artist or disability.",
+    "path": "src/static/assets/art-5.webp"
+  },
+  {
+    "name": "art-6",
+    "prompt": "Use case: illustration-story. Create a single square original artwork for an internal art gallery demo. A deep blue night with a warm yellow crescent moon and small colorful houses, expressive textured gouache. Sophisticated simple naive modern art, hand-drawn irregular shapes, visible pigment and paper texture. Fill the square composition. Flat artwork only, no frame, no text, no signature, no attribution to any actual artist or disability.",
+    "path": "src/static/assets/art-6.webp"
+  },
+  {
+    "name": "art-7",
+    "prompt": "Use case: illustration-story. Create a single square original artwork for an internal art gallery demo. Two abstract birds in teal and coral perched on a branch, playful broad pastel strokes, cream background. Sophisticated simple naive modern art, hand-drawn irregular shapes, visible pigment and paper texture. Fill the square composition. Flat artwork only, no frame, no text, no signature, no attribution to any actual artist or disability.",
+    "path": "src/static/assets/art-7.webp"
+  },
+  {
+    "name": "art-8",
+    "prompt": "Use case: illustration-story. Create a single square original artwork for an internal art gallery demo. A flowing abstract mountain landscape in dusty pink, ochre and blue, chalky gouache textures, cream paper. Sophisticated simple naive modern art, hand-drawn irregular shapes, visible pigment and paper texture. Fill the square composition. Flat artwork only, no frame, no text, no signature, no attribution to any actual artist or disability.",
+    "path": "src/static/assets/art-8.webp"
+  },
+  {
+    "name": "coffee-hero",
+    "prompt": "Use case: product-mockup. Premium editorial studio photograph for a mobile store. A matte warm white stand-up coffee pouch with a colorful abstract blue sea, coral sun and yellow boat art panel printed on the front, small understated English text 'ZHIZAOSHE' and 'GAYO'. A small creamy ceramic espresso cup beside it and three coffee beans. Light warm gray seamless background and table, soft directional daylight with beautiful subtle shadows, generous negative space, elegant Apple Store product photography. Single centered pouch full view, square composition. Concept packaging, no extra products.",
+    "path": "src/static/assets/coffee-hero.webp"
+  },
+  {
+    "name": "bakery-hero",
+    "prompt": "Use case: product-mockup. Square premium editorial food photograph for a minimalist mobile store. A beautiful ivory ceramic plate with four golden jasmine tea shortbread cookies with visible subtle green tea flecks, delicate white jasmine blossoms and one blurred pale ceramic tea cup. Warm ivory seamless tabletop, soft natural side lighting, delicate shadows, extremely elegant restraint. No text, no logos, no watermark. Close-up appetizing real texture.",
+    "path": "src/static/assets/bakery-hero.webp"
+  }
+]

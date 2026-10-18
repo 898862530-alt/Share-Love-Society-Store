@@ -1,0 +1,446 @@
+[
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "home-320",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      22,
+      28,
+      34
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 375,
+    "label": "home-375",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      22,
+      28,
+      34
+    ],
+    "width": 375
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "home-390",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      22,
+      28,
+      34
+    ],
+    "width": 390
+  },
+  {
+    "clipped": [],
+    "docWidth": 430,
+    "label": "home-430",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      22,
+      28,
+      34
+    ],
+    "width": 430
+  },
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "coffee-320",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 375,
+    "label": "coffee-375",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 375
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "coffee-390",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 390
+  },
+  {
+    "clipped": [],
+    "docWidth": 430,
+    "label": "coffee-430",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 430
+  },
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "bakery-320",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 375,
+    "label": "bakery-375",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 375
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "bakery-390",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 390
+  },
+  {
+    "clipped": [],
+    "docWidth": 430,
+    "label": "bakery-430",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 430
+  },
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "clothing-320",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 375,
+    "label": "clothing-375",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 375
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "clothing-390",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 390
+  },
+  {
+    "clipped": [],
+    "docWidth": 430,
+    "label": "clothing-430",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      34
+    ],
+    "width": 430
+  },
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "product-320",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      28,
+      34
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 375,
+    "label": "product-375",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      28,
+      34
+    ],
+    "width": 375
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "product-390",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      28,
+      34
+    ],
+    "width": 390
+  },
+  {
+    "clipped": [],
+    "docWidth": 430,
+    "label": "product-430",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      28,
+      34
+    ],
+    "width": 430
+  },
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "gallery-320",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      28
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 375,
+    "label": "gallery-375",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      28
+    ],
+    "width": 375
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "gallery-390",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      28
+    ],
+    "width": 390
+  },
+  {
+    "clipped": [],
+    "docWidth": 430,
+    "label": "gallery-430",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      13,
+      15,
+      17,
+      20,
+      28
+    ],
+    "width": 430
+  },
+  {
+    "clipped": [],
+    "docWidth": 320,
+    "label": "discover-320",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      34
+    ],
+    "width": 320
+  },
+  {
+    "clipped": [],
+    "docWidth": 375,
+    "label": "discover-375",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      34
+    ],
+    "width": 375
+  },
+  {
+    "clipped": [],
+    "docWidth": 390,
+    "label": "discover-390",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      34
+    ],
+    "width": 390
+  },
+  {
+    "clipped": [],
+    "docWidth": 430,
+    "label": "discover-430",
+    "minText": 12,
+    "smallControls": [],
+    "textSizes": [
+      12,
+      34
+    ],
+    "width": 430
+  }
+]
