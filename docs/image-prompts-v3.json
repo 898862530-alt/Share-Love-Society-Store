@@ -1,0 +1,17 @@
+[
+  {
+    "name": "campaign-cianjur",
+    "prompt": "Use case: product-mockup. Reference image is a mobile UI mockup; use ONLY its product photography and fine cyan-blue doodle aesthetic as visual guidance. Create a brand-new premium product campaign photograph, square composition, pure white seamless background, no UI, no buttons, no status bar. One matte ivory specialty coffee bag centered, small understated English labels 'CIANJUR' and 'ZHIZAOSHE', strawberries, one beautiful spoon with strawberry jam at left, a few roasted coffee beans and small brown sugar cubes at base. Tiny original simple cyan outline doodle characters with mint shirts interacting playfully near the bag, tasteful and subtle, mixed photographic and hand-drawn. No top headline, no Chinese characters. Objects occupy the central 75% with white breathing room, bag full view. Bright soft natural lighting, premium photoreal materials, restrained art direction. Concept packaging only.",
+    "path": "src/static/assets/campaign-cianjur.webp"
+  },
+  {
+    "name": "campaign-gayo",
+    "prompt": "Use case: product-mockup. Reference image is a mobile UI mockup; use ONLY the premium white-background product scene and fine cyan doodle style as aesthetic guidance. Create a brand-new square product campaign photograph, pure white seamless background. One ivory stand-up coffee bag centered with small understated English labels 'GAYO' and 'ZHIZAOSHE' and an original small blue-sea coral-sun artwork panel. A few roasted coffee beans, green coffee leaves, one white espresso cup. Two tiny original simple cyan outline doodle characters in mint shirts thoughtfully admiring the artwork, not a mascot from a known brand. No fruit flavor claims, no top headline, no Chinese characters, no UI, no buttons. Bag fully visible, composition central 75% with abundant pure white margins. Soft daylight, realistic materials, refined mobile commerce art direction.",
+    "path": "src/static/assets/campaign-gayo.webp"
+  },
+  {
+    "name": "campaign-jasmine",
+    "prompt": "Use case: product-mockup. Reference image is a mobile UI mockup; borrow ONLY the white, cyan-blue, delicate doodle design language. Create a new square premium food campaign photograph on pure white seamless tabletop and background. Elegant ivory gift carton with a tiny original blue flower art panel, subtle small English 'JASMINE TEA' and 'SHARE LOVE', a white plate of three golden jasmine tea shortbread cookies with green tea flecks, delicate real jasmine flowers and tea leaves. Two tiny simple original cyan outline doodle people in mint shirts interacting gently with flowers. Bright soft daylight, realistic crisp cookie textures, refined restraint, centered objects with generous white margins. No top headline, no Chinese text, no user interface, no buttons. Concept product packaging.",
+    "path": "src/static/assets/campaign-jasmine.webp"
+  }
+]

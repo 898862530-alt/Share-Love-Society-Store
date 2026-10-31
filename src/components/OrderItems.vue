@@ -1,0 +1,7 @@
+<script setup lang="ts">
+import {getProduct,getArt,openProduct} from '../data/catalog';import type {Selection} from '../stores/commerce';import ProductVisual from './ProductVisual.vue';defineProps<{items:Selection[]}>();
+</script>
+<template><view class="order-items"><button role="button" v-for="(item,i) in items" :key="i" class="order-item" @click="openProduct(item.productId,item.artId)"><view class="item-visual"><ProductVisual :product="{...getProduct(item.productId),art:item.artId}"/></view><view class="item-copy"><text class="item-name">{{getProduct(item.productId).name}}</text><text>作品 · {{getArt(item.artId).name}}</text><text>{{item.spec}} × {{item.quantity}}</text><text class="price">售价待公布</text></view></button></view></template>
+<style scoped>
+.order-item{display:flex;gap:16px;width:100%;text-align:left;padding:20px 0;background:none;border-bottom:1px solid var(--color-line);align-items:center}.item-visual{width:92px;height:116px;border-radius:12px;overflow:hidden;flex:none}.item-visual :deep(.product-visual){height:116px}.item-visual :deep(.pouch){transform:scale(.55) rotate(-4deg)}.item-visual :deep(.shirt){transform:scale(.5)}.item-copy{display:flex;flex-direction:column;gap:6px;font-size:var(--font-footnote);color:var(--color-secondary);min-width:0}.item-name{font-size:var(--font-body);font-weight:600;color:var(--color-text)}.price{color:var(--color-accent)}
+</style>

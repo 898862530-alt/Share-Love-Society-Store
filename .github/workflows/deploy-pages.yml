@@ -25,6 +25,7 @@ jobs:
           run_install: false
       - run: pnpm install --frozen-lockfile
       - run: pnpm run typecheck
+      - run: pnpm run build:mp-weixin
       - run: pnpm run build:pages
       - uses: actions/upload-pages-artifact@v3
         with:

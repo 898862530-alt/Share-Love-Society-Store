@@ -33,6 +33,6 @@ export const artworks=[
 ].map((a,i)=>({...a,id:i+1,image:assetUrl(`/static/assets/art-${i+1}.webp`),author:`创作者 ${String(i+1).padStart(2,'0')}（占位）`}));
 export const getProduct=(id:string)=>products.find(p=>p.id===id)||products[0];
 export const getArt=(id:number)=>artworks.find(a=>a.id===id)||artworks[0];
-export function openProduct(id:string){uni.navigateTo({url:`/pages/product/index?id=${encodeURIComponent(id)}`})}
+export function openProduct(id:string,artId?:number){uni.navigateTo({url:`/pages/product/index?id=${encodeURIComponent(id)}${artId?`&art=${artId}`:''}`})}
 export function openCategory(id:string){uni.navigateTo({url:`/pages/category/index?id=${id}`})}
 export function openArt(productId:string,artId:number){uni.navigateTo({url:`/pages/artwork/index?product=${productId}&art=${artId}`})}

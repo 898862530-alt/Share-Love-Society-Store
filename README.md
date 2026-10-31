@@ -1,6 +1,6 @@
 # 爱分你 · 联名商店
 
-移动端交互设计 Demo，基于 uni-app、Vue 3 和 TypeScript。内容支持替换，尚未接入登录、支付、订单与后台。
+移动端交互设计 Demo，基于 uni-app、Vue 3 和 TypeScript。首页三款主推产品与四段公益介绍，联名商城、作品画廊、收藏、购物车和演示订单已打通。当前记录保存在本机，尚未接入真实账号、支付与后台。
 
 ```sh
 pnpm install
@@ -14,8 +14,10 @@ H5 使用 hash 路由。微信构建输出在 `dist/build/mp-weixin`，使用微
 
 - 设计标准与待补资料：`docs/DESIGN.md`
 - 商品和作品数据：`src/data/catalog.ts`
+- 主推、逐款详情与演示规格：`src/data/editorial.ts`
+- 本机购物与订单状态：`src/stores/commerce.ts`
 - 图片资产：`src/static/assets/`
-- 生成提示词：`docs/image-prompts.json`
+- 生成提示词：`docs/image-prompts.json`、`docs/image-prompts-v3.json`
 
 ## GitHub Pages
 
